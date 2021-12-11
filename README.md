@@ -5,7 +5,7 @@ Axure云端查看效果：https://gawsy8.axshare.com/     <strong>(Quick View vi
 <br><br>
 
 实现安卓端登录、音乐播放、切歌、评论点赞 等主要功能，一比一还原，首页5大栏目前端效果。<br>
-From login, music play and music switch, to like comment and other main functions, it is a one to one replica to the original Android App, featuring the 5 main components, with the frotend effect displayed.
+From login, music play and music switch, to like comment and other main functions, it is a one to one replica to the original Android App, featuring the 5 main components, with the front-end effect displayed.
 <br><br>
 
 点击右上角下载zip文件，可随意使用！<br>
