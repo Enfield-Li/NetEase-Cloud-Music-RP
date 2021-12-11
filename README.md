@@ -13,4 +13,4 @@ Download the zip file and use it at your will!
 
 <br>
 <h3>已知问题：</h3>音乐播放没有进度条（别问，问就是不会）<br>
-<h3>Konwn Issue：</h3> No progress bar when playing music, since I dunno how to settup :)
+<h3>Konwn Issue：</h3> No progress bar when playing music, since I dunno how to set up :)
