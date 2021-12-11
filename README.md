@@ -1,7 +1,7 @@
 <h1>网易云音乐rp 高保真原型图</h1>
 <h1>NetEase Cloud Music Rapid Prototyping</h1>
 
-Axure云端查看效果：https://gawsy8.axshare.com/     <strong>(Quick View via Auxre Cloud)</strong>
+Axure云 查看效果：https://gawsy8.axshare.com/       <strong>(Quick View via Auxre Cloud)</strong>
 <br><br>
 
 实现安卓端登录、音乐播放、切歌、评论点赞 等主要功能，一比一还原，首页5大栏目前端效果。<br>
